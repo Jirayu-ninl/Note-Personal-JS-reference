@@ -1,1 +1,1 @@
-# -Note-Personal-JS-reference-
+# [Note] Personal JS reference
